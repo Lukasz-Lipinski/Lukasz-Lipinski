@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lukasz-Lipinski
 - 👀 I’m interested in HTML/CSS/JS. I get interested in websites and web apploications. 
-- 🌱 I’m currently learning JQuery 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me l.lipinski1993@gmail.com
 
 <!---
