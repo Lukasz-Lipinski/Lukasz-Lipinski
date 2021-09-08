@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lukasz-Lipinski
 - 👀 I’m interested in HTML/CSS/JS. I get interested in websites and web apploications. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning ReactJS in Szkoła Reacta.
+- My main goal is to become Senior React Developer. To get it I constantly expend my knowledge of Frontend (especially React and Sass) and gain practial experience by creating new projects using ReactJS.
 - 📫 How to reach me l.lipinski1993@gmail.com
 
 <!---
